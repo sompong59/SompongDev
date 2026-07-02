@@ -1,4 +1,4 @@
-# ສະບາຍດີ!  👋 ຂ້ອຍຊື່ [ສົມປອ ສຸກຜາລີ (ແອ)]
+# ສະບາຍດີ!  👋 ຂ້ອຍຊື່ [ສົມປອງ ສຸກຜາລີ (ແອ)]
 
 ### 🚀 Full-Stack Developer & System Developer based in Laos
 
