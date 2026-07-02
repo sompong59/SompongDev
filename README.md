@@ -33,9 +33,10 @@
 
 ---
 
+
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[ໃສ່_Username_GitHub_ຂອງທ່ານ_ຢູ່ບ່ອນນີ້]&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[ໃສ່_Username_GitHub_ຂອງທ່ານ_ຢູ່ບ່ອນນີ້]&layout=compact&theme=radial)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sompong59&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sompong59&layout=compact&theme=radial)
 
 ---
 
