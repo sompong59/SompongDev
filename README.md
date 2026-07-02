@@ -36,6 +36,7 @@
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=sompong59&show_icons=true&theme=radial)
 ![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=sompong59&layout=compact&theme=radial)
+![Sompong59's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sompong59&theme=github-dark)
 
 ---
 
