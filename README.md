@@ -33,10 +33,9 @@
 
 ---
 
-
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sompong59&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sompong59&layout=compact&theme=radial)
+![GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=sompong59&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=sompong59&layout=compact&theme=radial)
 
 ---
 
